@@ -1,0 +1,120 @@
+[{
+"category": "Science: Computers",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What does CPU stand for?",
+"correct_answer": "Central Processing Unit",
+"incorrect_answers": [
+"Central Process Unit",
+"Computer Personal Unit",
+"Central Processor Unit"
+]
+},
+{
+"category": "Entertainment: Music",
+"type": "multiple",
+"difficulty": "easy",
+"question": "How many studio albums have the duo Daft Punk released?",
+"correct_answer": "4",
+"incorrect_answers": [
+"1",
+"5",
+"2"
+]
+},
+{
+"category": "Entertainment: Television",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Who is the star of the AMC series Breaking Bad?",
+"correct_answer": "Walter White",
+"incorrect_answers": [
+"Saul Goodman",
+"Jesse Pinkman",
+"Skyler White"
+]
+},
+{
+"category": "Entertainment: Cartoon & Animations",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Butters Stotch, Pip Pirrup, and Wendy Testaburger are all characters in which long running animated TV series?",
+"correct_answer": "South Park",
+"incorrect_answers": [
+"The Simpsons",
+"Family Guy",
+"Bob&#039;s Burgers"
+]
+},
+{
+"category": "Entertainment: Video Games",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which of these Starbound races has a Wild West culture?",
+"correct_answer": "Novakid",
+"incorrect_answers": [
+"Avian",
+"Human",
+"Hylotl"
+]
+},
+{
+"category": "Entertainment: Video Games",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What was Frank West&#039;s job in &quot;Dead Rising&quot;?",
+"correct_answer": "Photojournalist",
+"incorrect_answers": [
+"Janitor",
+"Chef",
+"Taxi Driver"
+]
+},
+{
+"category": "Entertainment: Video Games",
+"type": "multiple",
+"difficulty": "easy",
+"question": "In &quot;Mario &amp; Sonic at the Olympic Games&quot;, characters are split into how many types?",
+"correct_answer": "4",
+"incorrect_answers": [
+"6",
+"5",
+"3"
+]
+},
+{
+"category": "Entertainment: Video Games",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which of the following characters from the game &quot;Overwatch&quot; was revealed to be homosexual in December of 2016?",
+"correct_answer": "Tracer",
+"incorrect_answers": [
+"Widowmaker",
+"Sombra",
+"Symmetra"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What is the closest planet to our solar system&#039;s sun?",
+"correct_answer": "Mercury",
+"incorrect_answers": [
+"Mars",
+"Jupiter",
+"Earth"
+]
+},
+{
+"category": "Entertainment: Video Games",
+"type": "multiple",
+"difficulty": "easy",
+"question": "In Night In The Woods, where does Gregg work?",
+"correct_answer": "Snack Falcon",
+"incorrect_answers": [
+"Ol&#039; Pickaxe",
+"Video Outpost &quot;Too&quot;",
+"Food Donkey"
+]
+}]
